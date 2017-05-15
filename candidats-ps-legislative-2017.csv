@@ -1,0 +1,393 @@
+id,code_dept,nom_dept,num_circ,nom,url
+01003,01,Ain,3,Géraldine SACCHI,http://www.parti-socialiste.fr/personnalite/geraldine-sacchi-hassanein/
+03001,03,Allier,1,Magali ALEXANDRE,http://www.parti-socialiste.fr/personnalite/magali-alexandre/
+03002,03,Allier,2,Nicolas BRIEN,http://www.parti-socialiste.fr/personnalite/nicolas-brien/
+07002,07,Ardèche,2,Olivier DUSSOPT,http://www.parti-socialiste.fr/personnalite/olivier-dussopt/
+07003,07,Ardèche,3,Sabine BUIS,http://www.parti-socialiste.fr/personnalite/sabine-buis-2/
+26001,26,Drôme,1,Jean-Pierre VEYRET,http://www.parti-socialiste.fr/personnalite/jean-pierre-veyret/
+26002,26,Drôme,2,Isabelle MALRIC,http://www.parti-socialiste.fr/personnalite/isabelle-malric/
+26003,26,Drôme,3,Pascale ROCHAS,http://www.parti-socialiste.fr/personnalite/pascale-rochas/
+26004,26,Drôme,4,Pierre JOUVET ,http://www.parti-socialiste.fr/personnalite/pierre-jouvet-2/
+38002,38,Isère,2,Pierre VERRI,http://www.parti-socialiste.fr/personnalite/pierre-verri/
+38003,38,Isère,3,Michel DESTOT,http://www.parti-socialiste.fr/personnalite/michel-destot/
+38004,38,Isère,4,Marie-Noelle BATTISTEL,http://www.parti-socialiste.fr/personnalite/marie-noelle-battistel/
+38005,38,Isère,5,Eliane GIRAUD,http://www.parti-socialiste.fr/personnalite/eliane-giraud/
+38006,38,Isère,6,Alexandre BOLLEAU,http://www.parti-socialiste.fr/personnalite/alexandre-bolleau/
+38008,38,Isère,8,Erwann BINET,http://www.parti-socialiste.fr/personnalite/erwann-binet/
+38010,38,Isère,10,Joelle HUILLIER,http://www.parti-socialiste.fr/personnalite/joelle-huillier/
+42001,42,Loire,1,Régis JUANICO,http://www.parti-socialiste.fr/personnalite/regis-juanico/
+42003,42,Loire,3,Philippe KIZIRIAN,http://www.parti-socialiste.fr/personnalite/philippe-kizirian/
+42004,42,Loire,4,Laurence JUBAN,
+42005,42,Loire,5,Brigitte DUMOULIN,
+43001,43,Haute-Loire,1,Fabrice FARISON,http://www.parti-socialiste.fr/personnalite/fabrice-farison/
+43002,43,Haute-Loire,2,Josiane MIALON,http://www.parti-socialiste.fr/personnalite/josiane-mialon/
+63001,63,Puy-de-Dôme,1,Cécile AUDET,http://www.parti-socialiste.fr/personnalite/cecile-audet/
+63002,63,Puy-de-Dôme,2,Christine PIRES BEAUNE,http://www.parti-socialiste.fr/personnalite/christine-pires-beaune/
+63003,63,Puy-de-Dôme,3,Alphonse BELLONTE,http://www.parti-socialiste.fr/personnalite/alphonse-bellonte/
+63004,63,Puy-de-Dôme,4,Sylvie MAISONNET,http://www.parti-socialiste.fr/personnalite/sylvie-maisonnet/
+63005,63,Puy-de-Dôme,5,Gérard BETENFELD,http://www.parti-socialiste.fr/personnalite/gerard-betenfeld/
+69006,69,Rhône,6,Najat VALLAUD BELKACEM,http://www.parti-socialiste.fr/personnalite/najat-vallaud-belkacem/
+69007,69,Rhône,7,Renaud GAUQUELIN,http://www.parti-socialiste.fr/personnalite/renaud-gauquelin/
+69011,69,Rhône,11,Jules JOASSARD,http://www.parti-socialiste.fr/personnalite/jules-joassard/
+69012,69,Rhône,12,David CHIZAT,http://www.parti-socialiste.fr/personnalite/david-chizat/
+69013,69,Rhône,13,Françoise BERGAME,http://www.parti-socialiste.fr/personnalite/francoise-bergame/
+69014,69,Rhône,14,Yves BLEIN,http://www.parti-socialiste.fr/personnalite/yves-blein/
+73003,73,Savoie,3,Philippe VIVIER,http://www.parti-socialiste.fr/personnalite/philippe-vivier/
+74004,74,Haute-Savoie,4,Anne FAVRELLE,http://www.parti-socialiste.fr/personnalite/anne-favrelle/
+74005,74,Haute-Savoie,5,Jean-Baptiste BAUD,http://www.parti-socialiste.fr/personnalite/jean-baptiste-baud/
+21001,21,Côte-d'Or,1,Sladana ZIVKOVIC,http://www.parti-socialiste.fr/personnalite/sladana-zivkovic/
+21002,21,Côte-d'Or,2,Pierre PRIBETICH,http://www.parti-socialiste.fr/personnalite/pierre-pribetich/
+21003,21,Côte-d'Or,3,Anne DILLENSEGER,http://www.parti-socialiste.fr/personnalite/anne-dillenseger/
+25001,25,Doubs,1,Barbara ROMAGNAN,http://www.parti-socialiste.fr/personnalite/barbara-romagnan/
+25003,25,Doubs,3,Sidonie MARCHAL,http://www.parti-socialiste.fr/personnalite/sidonie-marchal/
+25004,25,Doubs,4,Frédéric BARBIER,http://www.parti-socialiste.fr/personnalite/frederic-barbier/
+39001,39,Jura,1,Marc-Henri DUVERNET,http://www.parti-socialiste.fr/personnalite/marc-henri-duvernet/
+39003,39,Jura,3,Françoise BARTHOULOT,http://www.parti-socialiste.fr/personnalite/francoise-barthoulot/
+58001,58,Nièvre,1,Gaëtan GORCE,http://www.parti-socialiste.fr/personnalite/gaetan-gorce/
+58002,58,Nièvre,2,Christian PAUL,http://www.parti-socialiste.fr/personnalite/christian-paul/
+70001,70,Haute-Saône,1,Laurent RICARD,http://www.parti-socialiste.fr/personnalite/laurent-ricard/
+70002,70,Haute-Saône,2,Jérôme LAROCHE,http://www.parti-socialiste.fr/personnalite/jerome-laroche/
+71001,71,Saône-et-Loire,1,Catherine N’DIAYE,http://www.parti-socialiste.fr/personnalite/catherine-ndiaye/
+71002,71,Saône-et-Loire,2,Philomène BACCOT,http://www.parti-socialiste.fr/personnalite/philomene-baccot/
+71003,71,Saône-et-Loire,3,Philippe BAUMEL,http://www.parti-socialiste.fr/personnalite/philippe-baumel/
+71004,71,Saône-et-Loire,4,Cécile UNTERMAIER,http://www.parti-socialiste.fr/personnalite/cecile-untermaier/
+71005,71,Saône-et-Loire,5,Christophe SIRUGUE,http://www.parti-socialiste.fr/personnalite/christophe-sirugue/
+89003,89,Yonne,3,Dominique BOURREAU,http://www.parti-socialiste.fr/personnalite/dominique-bourreau/
+90002,90,Territoire de Belfort,2,Maude CLAVEQUIN,http://www.parti-socialiste.fr/personnalite/maude-clavequin/
+22001,22,Côtes-d'Armor,1,Michel LESAGE,http://www.parti-socialiste.fr/personnalite/michel-lesage/
+22002,22,Côtes-d'Armor,2,Viviane LE DISSEZ,http://www.parti-socialiste.fr/personnalite/viviane-le-dissez/
+22004,22,Côtes-d'Armor,4,Annie LE HOUÉROU,http://www.parti-socialiste.fr/personnalite/annie-le-houerou/
+29001,29,Finistère,1,Jean-Jacques URVOAS,http://www.parti-socialiste.fr/personnalite/jean-jacques-urvoas/
+29002,29,Finistère,2,Patricia ADAM,http://www.parti-socialiste.fr/personnalite/patricia-adam/
+29003,29,Finistère,3,Jean-Luc BLEUNVEN,http://www.parti-socialiste.fr/personnalite/jean-luc-bleunven/
+29004,29,Finistère,4,Gwenegan BUI,http://www.parti-socialiste.fr/personnalite/gwenegan-bui/
+29005,29,Finistère,5,Chantal GUITTET RAISON,http://www.parti-socialiste.fr/personnalite/chantal-guittet-raison/
+29007,29,Finistère,7,Florence CROM,http://www.parti-socialiste.fr/personnalite/florence-crom/
+29008,29,Finistère,8,Michaël QUERNEZ,http://www.parti-socialiste.fr/personnalite/michael-quernez/
+35001,35,Ille-et-Vilaine,1,Marie-Anne CHAPDELAINE,http://www.parti-socialiste.fr/personnalite/marie-anne-chapdelaine/
+35002,35,Ille-et-Vilaine,2,Gaëlle ANDRO,http://www.parti-socialiste.fr/personnalite/gaelle-andro/
+35003,35,Ille-et-Vilaine,3,François ANDRE,http://www.parti-socialiste.fr/personnalite/francois-andre/
+35004,35,Ille-et-Vilaine,4,Franck PICHOT,http://www.parti-socialiste.fr/personnalite/franck-pichot/
+35005,35,Ille-et-Vilaine,5,Stéphane LENFANT,http://www.parti-socialiste.fr/personnalite/stephane-lenfant/
+35006,35,Ille-et-Vilaine,6,Evelyne GAUTIER LE BAIL,http://www.parti-socialiste.fr/personnalite/evelyne-gautier-bail/
+35007,35,Ille-et-Vilaine,7,Alexandra THIERRY,http://www.parti-socialiste.fr/personnalite/alexandra-thierry/
+35008,35,Ille-et-Vilaine,8,Emmanuel COUET,http://www.parti-socialiste.fr/personnalite/emmanuel-couet/
+56001,56,Morbihan,1,Hervé PELLOIS,http://www.parti-socialiste.fr/personnalite/herve-pellois/
+56002,56,Morbihan,2,Stéphanie LE SQUER,http://www.parti-socialiste.fr/personnalite/stephanie-le-squer/
+56003,56,Morbihan,3, Marie-Christine LE MOUEL,http://www.parti-socialiste.fr/personnalite/marie-christine-mouel/
+56005,56,Morbihan,5,Gwendal ROUILLARD,http://www.parti-socialiste.fr/personnalite/gwendal-rouillard/
+56006,56,Morbihan,6,Jérôme DECROCK,http://www.parti-socialiste.fr/personnalite/jerome-decrock/
+18001,18,Cher,1,Céline BEZOUI,http://www.parti-socialiste.fr/personnalite/celine-bezoui/
+18002,18,Cher,2,Agnès SINSOULIER,http://www.parti-socialiste.fr/personnalite/agnes-sinsoulier/
+18003,18,Cher,3,Yann GALUT,http://www.parti-socialiste.fr/personnalite/yann-galut/
+28001,28,Eure-et-Loir,1,Stéphane CORDIER,http://www.parti-socialiste.fr/personnalite/stephane-cordier/
+28002,28,Eure-et-Loir,2,Nadia FAVERIS,http://www.parti-socialiste.fr/personnalite/nadia-faveris/
+36002,36,Indre,2,Isabelle BRUNEAU,http://www.parti-socialiste.fr/personnalite/isabelle-bruneau/
+37001,37,Indre-et-Loire,1,Jean-Patrick GILLE,http://www.parti-socialiste.fr/personnalite/jean-patrick-gille/
+37002,37,Indre-et-Loire,2,Isabelle GAUDRON,http://www.parti-socialiste.fr/personnalite/isabelle-gaudron/
+37003,37,Indre-et-Loire,3,Marisol TOURAINE,http://www.parti-socialiste.fr/personnalite/touraine-marisol/
+37004,37,Indre-et-Loire,4,Laurent BAUMEL,http://www.parti-socialiste.fr/personnalite/laurent-baumel/
+41001,41,Loir-et-Cher,1,Denys ROBILIARD,http://www.parti-socialiste.fr/personnalite/denys-robiliard/
+41002,41,Loir-et-Cher,2,Didier GUENIN,http://www.parti-socialiste.fr/personnalite/didier-guenin/
+45001,45,Loiret,1,Olivier JOUIN,http://www.parti-socialiste.fr/personnalite/olivier-jouin/
+45004,45,Loiret,4,Jalila GABORET,http://www.parti-socialiste.fr/personnalite/jalila-gaboret/
+45005,45,Loiret,5,Thierry STROMBONI,http://www.parti-socialiste.fr/personnalite/thierry-stromboni/
+45006,45,Loiret,6,Valérie CORRE,http://www.parti-socialiste.fr/personnalite/valerie-corre-2/
+08002,08,Ardennes,2,Christophe LEONARD,http://www.parti-socialiste.fr/personnalite/christophe-leonard/
+08003,08,Ardennes,3,Didier HERBILLON,http://www.parti-socialiste.fr/personnalite/didier-herbillon/
+10001,10,Aube,1,Emmanuel PROVIN,http://www.parti-socialiste.fr/personnalite/emmanuel-provin/
+10002,10,Aube,2,Audrey AIT KEDDACHE,http://www.parti-socialiste.fr/personnalite/audrey-ait-keddache/
+10003,10,Aube,3,David BLANCHON,http://www.parti-socialiste.fr/personnalite/david-blanchon/
+51001,51,Marne,1,Alexandre TUNC,http://www.parti-socialiste.fr/personnalite/alexandre-tunc/
+51002,51,Marne,2,Imane MANIANI,http://www.parti-socialiste.fr/personnalite/imane-maniani/
+51003,51,Marne,3,Hadhoum BELAREDJ TUNC,http://www.parti-socialiste.fr/personnalite/hadhoum-belaredj-tunc/
+51004,51,Marne,4,Rudy NAMUR,http://www.parti-socialiste.fr/personnalite/rudy-namur/
+51005,51,Marne,5,Linda MUNSTER,http://www.parti-socialiste.fr/personnalite/linda-munster/
+52002,52,Haute-Marne,2,Antoine DESFRETIER,http://www.parti-socialiste.fr/personnalite/antoine-desfretier/
+54001,54,Meurthe-et-Moselle,1,Chaynesse KHIROUNI,http://www.parti-socialiste.fr/personnalite/chaynesse-khirouni/
+54002,54,Meurthe-et-Moselle,2,Hervé FERON,http://www.parti-socialiste.fr/personnalite/herve-feron/
+54003,54,Meurthe-et-Moselle,3,Christian ECKERT,http://www.parti-socialiste.fr/personnalite/christian-eckert/
+54005,54,Meurthe-et-Moselle,5,Dominique POTIER,http://www.parti-socialiste.fr/personnalite/dominique-potier-2/
+54006,54,Meurthe-et-Moselle,6,Julien VAILLANT,http://www.parti-socialiste.fr/personnalite/julien-vaillant/
+55001,55,Meuse,1,Arnaud MAC FARLANE,http://www.parti-socialiste.fr/personnalite/arnaud-mac-farlane/
+55002,55,Meuse,2,Jean-Louis DUMONT,http://www.parti-socialiste.fr/personnalite/jean-louis-dumont/
+57001,57,Moselle,1,Aurélie FILIPETTI,http://www.parti-socialiste.fr/personnalite/aurelie-filipetti/
+57002,57,Moselle,2,Jean-Michel TOULOUZE,http://www.parti-socialiste.fr/personnalite/jean-michel-toulouze/
+57003,57,Moselle,3,Nathalie DE OLIVEIRA,http://www.parti-socialiste.fr/personnalite/nathalie-de-oliveira/
+57005,57,Moselle,5,Angèle DUFFLO,http://www.parti-socialiste.fr/personnalite/angele-dufflo/
+57006,57,Moselle,6,Jean-Christophe KINNEL,http://www.parti-socialiste.fr/personnalite/jean-christophe-kinnel/
+57007,57,Moselle,7,Paola ZANETTI,http://www.parti-socialiste.fr/personnalite/paola-zanetti/
+57008,57,Moselle,8,Michel LIEBGOTT,http://www.parti-socialiste.fr/personnalite/michel-liebgott/
+57009,57,Moselle,9,Brigitte VAISSE,http://www.parti-socialiste.fr/personnalite/brigitte-vaisse/
+67001,67,Bas-Rhin,1,Eric ELKOUBY,http://www.parti-socialiste.fr/personnalite/eric-elkouby/
+67002,67,Bas-Rhin,2,Philippe BIES,http://www.parti-socialiste.fr/personnalite/philippe-bies/
+67003,67,Bas-Rhin,3,Serge OEHLER,http://www.parti-socialiste.fr/personnalite/serge-oehler/
+68005,68,Haut-Rhin,5,Abdellatif TIMDOUINE,http://www.parti-socialiste.fr/personnalite/abdellatif-timdouine/
+68006,68,Haut-Rhin,6,Pierre PARRA,http://www.parti-socialiste.fr/personnalite/pierre-parra/
+88001,88,Vosges,1,Martine FRANCOIS,http://www.parti-socialiste.fr/personnalite/martine-francois/
+88003,88,Vosges,3,Stessy SPEISSMANN,http://www.parti-socialiste.fr/personnalite/stessy-speissmann/
+88004,88,Vosges,4,Christian FRANQUEVILLE,http://www.parti-socialiste.fr/personnalite/christian-franqueville/
+02003,02,Aisne,3,Jean-Louis BRICOUT,http://www.parti-socialiste.fr/personnalite/jean-louis-bricout/
+02004,02,Aisne,4,Marie Françoise BECHTEL ,http://www.parti-socialiste.fr/personnalite/marie-francoise-bechtel/
+59001,59,Nord,1,François LAMY,http://www.parti-socialiste.fr/personnalite/francois-lamy-2/
+59002,59,Nord,2,Audrey LINKENHELD,http://www.parti-socialiste.fr/personnalite/audrey-linkenheld/
+59003,59,Nord,3,Rémi PAUVROS,http://www.parti-socialiste.fr/personnalite/remi-pauvros/
+59004,59,Nord,4,Philippe HARQUET,http://www.parti-socialiste.fr/personnalite/philippe-harquet/
+59005,59,Nord,5,Aude LEDUC,http://www.parti-socialiste.fr/personnalite/aude-leduc/
+59007,59,Nord,7,Hélène VIARD,http://www.parti-socialiste.fr/personnalite/helene-viard/
+59010,59,Nord,10,Yasmina CHIGRI KERNAB,http://www.parti-socialiste.fr/personnalite/yasmina-chigri-kernab/
+59011,59,Nord,11,Roger VICOT,http://www.parti-socialiste.fr/personnalite/roger-vicot/
+59014,59,Nord,14,Christian DEVOS,http://www.parti-socialiste.fr/personnalite/christian-devos/
+59015,59,Nord,15,Michel LABITTE,http://www.parti-socialiste.fr/personnalite/michel-labitte/
+59016,59,Nord,16,Frédéric DELANNOY,http://www.parti-socialiste.fr/personnalite/frederic-delannoy/
+59017,59,Nord,17,Agnès DUPUIS,http://www.parti-socialiste.fr/personnalite/agnes-dupuis/
+59018,59,Nord,18,Claire POMMEYROL BURLET,http://www.parti-socialiste.fr/personnalite/claire-pommeyrol-burlet/
+59020,59,Nord,20,Marcel LOUREL,http://www.parti-socialiste.fr/personnalite/marcel-lourel/
+59021,59,Nord,21,Christine LAURENT,http://www.parti-socialiste.fr/personnalite/christine-laurent/
+60003,60,Oise,3,Johann LUCAS,http://www.parti-socialiste.fr/personnalite/johann-lucas/
+60007,60,Oise,7,Alexandre OUIZILLE,http://www.parti-socialiste.fr/personnalite/alexandre-ouizille/
+62001,62,Pas-de-Calais,1,Jean-Jacques COTTEL,http://www.parti-socialiste.fr/personnalite/jean-jacques-cottel/
+62002,62,Pas-de-Calais,2,Jacqueline MAQUET,http://www.parti-socialiste.fr/personnalite/jacqueline-maquet/
+62003,62,Pas-de-Calais,3,Frédérique MASSON,http://www.parti-socialiste.fr/personnalite/frederique-masson-2/
+62004,62,Pas-de-Calais,4,Blandine DRAIN,http://www.parti-socialiste.fr/personnalite/blandine-drain/
+62005,62,Pas-de-Calais,5,Frédéric CUVILLIER,http://www.parti-socialiste.fr/personnalite/frederic-cuvillier/
+62006,62,Pas-de-Calais,6,Brigitte BOURGUIGNON,http://www.parti-socialiste.fr/personnalite/brigitte-bourguignon-2/
+62007,62,Pas-de-Calais,7,Yann CAPET,http://www.parti-socialiste.fr/personnalite/yann-capet/
+62008,62,Pas-de-Calais,8,Bertrand PETIT,http://www.parti-socialiste.fr/personnalite/bertrand-petit/
+62010,62,Pas-de-Calais,10,Bernard CAILLIAU,http://www.parti-socialiste.fr/personnalite/bernard-cailliau/
+62011,62,Pas-de-Calais,11,Philippe KEMEL,http://www.parti-socialiste.fr/personnalite/philippe-kemel/
+62012,62,Pas-de-Calais,12,Nicolas BAYS,http://www.parti-socialiste.fr/personnalite/nicolas-bays/
+80001,80,Somme,1,Pascale BOISTARD,http://www.parti-socialiste.fr/personnalite/pascale-boistard/
+80005,80,Somme,5,Benjamin LUCAS,http://www.parti-socialiste.fr/personnalite/benjamin-lucas/
+75001,75,Paris,1,Pauline VERON,http://www.parti-socialiste.fr/personnalite/pauline-veron/
+75002,75,Paris,2,Marine ROSSET,http://www.parti-socialiste.fr/personnalite/marine-rosset/
+75003,75,Paris,3,Annick LEPETIT,http://www.parti-socialiste.fr/personnalite/annick-lepetit/
+75004,75,Paris,4,Fabrice DASSIE,http://www.parti-socialiste.fr/personnalite/fabrice-dassie/
+75005,75,Paris,5,Seybah DAGOMA,http://www.parti-socialiste.fr/personnalite/seybah-dagoma-2/
+75007,75,Paris,7,Patrick BLOCHE,http://www.parti-socialiste.fr/personnalite/patrick-bloche-2/
+75008,75,Paris,8,Sandrine MAZETIER,http://www.parti-socialiste.fr/personnalite/sandrine-mazetier-2/
+75009,75,Paris,9,Jean-Marie LE GUEN,http://www.parti-socialiste.fr/personnalite/jean-marie-guen/
+75011,75,Paris,11,Pascal CHERKI,http://www.parti-socialiste.fr/personnalite/pascal-cherki/
+75012,75,Paris,12,Florian SITBON,http://www.parti-socialiste.fr/personnalite/florian-sitbon/
+75014,75,Paris,14,Pierre-Alain WEILL,http://www.parti-socialiste.fr/personnalite/pierre-alain-weill-2/
+75015,75,Paris,15,George PAU LANGEVIN,http://www.parti-socialiste.fr/personnalite/george-pau-langevin/
+75016,75,Paris,16,Jean-Christophe CAMBADELIS,http://www.parti-socialiste.fr/personnalite/jean-christophe-cambadelis-2/
+75017,75,Paris,17,Colombe BROSSEL,http://www.parti-socialiste.fr/personnalite/colombe-brossel-2/
+75018,75,Paris,18,Myriam EL KHOMRI,http://www.parti-socialiste.fr/personnalite/myriam-el-khomri/
+77001,77,Seine-et-Marne,1,Nicolas ALIX,http://www.parti-socialiste.fr/personnalite/nicolas-alix/
+77003,77,Seine-et-Marne,3,Marie-Laure FAGES,http://www.parti-socialiste.fr/personnalite/marie-laure-fages-2/
+77004,77,Seine-et-Marne,4,Olivier HUSSON,http://www.parti-socialiste.fr/personnalite/olivier-husson/
+77006,77,Seine-et-Marne,6,Bastien MARGUERITE,http://www.parti-socialiste.fr/personnalite/bastien-marguerite/
+77007,77,Seine-et-Marne,7,Stéphane JABUT,http://www.parti-socialiste.fr/personnalite/stephane-jabut/
+77008,77,Seine-et-Marne,8,Eduardo RIHAN CYPEL,http://www.parti-socialiste.fr/personnalite/eduardo-rihan-cypel-2/
+77009,77,Seine-et-Marne,9,Monique DELESSARD,http://www.parti-socialiste.fr/personnalite/monique-delessard/
+77010,77,Seine-et-Marne,10,Juliette MEADEL,http://www.parti-socialiste.fr/personnalite/juliette-meadel-2/
+77011,77,Seine-et-Marne,11,Olivier FAURE,http://www.parti-socialiste.fr/personnalite/olivier-faure-2/
+78001,78,Yvelines,1,Charlotte ROSSETTINI,http://www.parti-socialiste.fr/personnalite/charlotte-rossettini/
+78002,78,Yvelines,2,Amroze ADJUWARD,http://www.parti-socialiste.fr/personnalite/amroze-adjuward/
+78003,78,Yvelines,3,Nicolas HUE,http://www.parti-socialiste.fr/personnalite/nicolas-hue/
+78004,78,Yvelines,4,Monika BELALA,http://www.parti-socialiste.fr/personnalite/monika-belala/
+78006,78,Yvelines,6,Angéline SILLY,http://www.parti-socialiste.fr/personnalite/angeline-silly/
+78008,78,Yvelines,8,Françoise DESCAMPS CROSNIER,http://www.parti-socialiste.fr/personnalite/francoise-descamps-crosnier/
+78009,78,Yvelines,9,Ali MOHAMMAD,http://www.parti-socialiste.fr/personnalite/ali-mohammad/
+78010,78,Yvelines,10,Jean-Claude HUSSON,http://www.parti-socialiste.fr/personnalite/jean-claude-husson/
+78011,78,Yvelines,11,Benoît HAMON,http://www.parti-socialiste.fr/personnalite/benoit-hamon/
+78012,78,Yvelines,12,Marie-Noelle BAS,http://www.parti-socialiste.fr/personnalite/marie-noelle-bas-2/
+91003,91,Essonne,3,Michel POUZOL,http://www.parti-socialiste.fr/personnalite/michel-pouzol/
+91004,91,Essonne,4,Ophélie GUIN,http://www.parti-socialiste.fr/personnalite/ophelie-guin/
+91005,91,Essonne,5,Maud OLIVIER,http://www.parti-socialiste.fr/personnalite/maud-olivier/
+91006,91,Essonne,6,Jérôme GUEDJ,http://www.parti-socialiste.fr/personnalite/jerome-guedj/
+91008,91,Essonne,8,Faten BEN AHMED,http://www.parti-socialiste.fr/personnalite/faten-ben-ahmed/
+91009,91,Essonne,9,Romain COLAS,http://www.parti-socialiste.fr/personnalite/romain-colas/
+91010,91,Essonne,10,Malek BOUTIH,http://www.parti-socialiste.fr/personnalite/malek-boutih/
+92001,92,Hauts-de-Seine,1,Alexis BACHELAY,http://www.parti-socialiste.fr/personnalite/alexis-bachelay/
+92002,92,Hauts-de-Seine,2,Chantal BARTHELEMY RUIZ,http://www.parti-socialiste.fr/personnalite/chantal-barthelemy-ruiz/
+92003,92,Hauts-de-Seine,3,Isabelle DAHAN,http://www.parti-socialiste.fr/personnalite/isabelle-dahan/
+92004,92,Hauts-de-Seine,4,Habiba BIGDADE,http://www.parti-socialiste.fr/personnalite/habiba-bigdade/
+92005,92,Hauts-de-Seine,5,Lies MESSATFA,http://www.parti-socialiste.fr/personnalite/lies-messatfa/
+92006,92,Hauts-de-Seine,6,Marie BRANNENS,http://www.parti-socialiste.fr/personnalite/marie-brannens/
+92008,92,Hauts-de-Seine,8,Catherine LIME BIFFE,http://www.parti-socialiste.fr/personnalite/catherine-lime-biffe/
+92010,92,Hauts-de-Seine,10,Thomas PUIJALON,http://www.parti-socialiste.fr/personnalite/thomas-puijalon/
+92011,92,Hauts-de-Seine,11,Julie SOMMARUGA,http://www.parti-socialiste.fr/personnalite/julie-sommaruga/
+92012,92,Hauts-de-Seine,12,Jean-Marc GERMAIN,http://www.parti-socialiste.fr/personnalite/jean-marc-germain-2/
+92013,92,Hauts-de-Seine,13,Benjamin LANIER,http://www.parti-socialiste.fr/personnalite/benjamin-lanier/
+93002,93,Seine-Saint-Denis,2,Mathieu HANOTIN,http://www.parti-socialiste.fr/personnalite/mathieu-hanotin/
+93005,93,Seine-Saint-Denis,5,Valérie MERY FRITZ,http://www.parti-socialiste.fr/personnalite/valerie-mery-fritz/
+93006,93,Seine-Saint-Denis,6,Elisabeth GUIGOU,http://www.parti-socialiste.fr/personnalite/elisabeth-guigou/
+93007,93,Seine-Saint-Denis,7,Razzy HAMMADI,http://www.parti-socialiste.fr/personnalite/razzy-hammadi-2/
+93008,93,Seine-Saint-Denis,8,Elisabeth POCHON,http://www.parti-socialiste.fr/personnalite/elisabeth-pochon/
+93010,93,Seine-Saint-Denis,10,Daniel GOLDBERG,http://www.parti-socialiste.fr/personnalite/daniel-goldberg/
+94004,94,Val-de-Marne,4,Zakaria ZAIDANE,http://www.parti-socialiste.fr/personnalite/zakaria-zaidane/
+94005,94,Val-de-Marne,5,Caroline ADOMO,http://www.parti-socialiste.fr/personnalite/caroline-adomo/
+94008,94,Val-de-Marne,8,Sophie GALLAIS,http://www.parti-socialiste.fr/personnalite/sophie-gallais/
+94009,94,Val-de-Marne,9,Luc CARVOUNAS,http://www.parti-socialiste.fr/personnalite/luc-carvounas-2/
+95001,95,Val-d'Oise,1,Sandra NGUYEN DEROSIER,http://www.parti-socialiste.fr/personnalite/sandra-nguyen-derosier/
+95002,95,Val-d'Oise,2,Ayda HADIZADEH,http://www.parti-socialiste.fr/personnalite/ayda-hadizadeh/
+95003,95,Val-d'Oise,3,Nelly LEON,http://www.parti-socialiste.fr/personnalite/nelly-leon/
+95004,95,Val-d'Oise,4,Marie-José BEAULANDE,http://www.parti-socialiste.fr/personnalite/marie-jose-beaulande/
+95005,95,Val-d'Oise,5,Philippe DOUCET,http://www.parti-socialiste.fr/personnalite/philippe-doucet-2/
+95006,95,Val-d'Oise,6,Guilaine PESTIE,http://www.parti-socialiste.fr/personnalite/guilaine-pestie/
+95009,95,Val-d'Oise,9,Luc BROUSSY,http://www.parti-socialiste.fr/personnalite/luc-broussy-2/
+95010,95,Val-d'Oise,10,Dominique LEFEBVRE,http://www.parti-socialiste.fr/personnalite/dominique-lefebvre/
+14002,14,Calvados,2,Pierre VERRI,http://www.parti-socialiste.fr/personnalite/pierre-verri/
+14003,14,Calvados,3,Michel DESTOT,http://www.parti-socialiste.fr/personnalite/michel-destot/
+14004,14,Calvados,4,Marie-Noelle BATTISTEL,http://www.parti-socialiste.fr/personnalite/marie-noelle-battistel/
+14005,14,Calvados,5,Eliane GIRAUD,http://www.parti-socialiste.fr/personnalite/eliane-giraud/
+14006,14,Calvados,6,Alexandre BOLLEAU,http://www.parti-socialiste.fr/personnalite/alexandre-bolleau/
+14008,14,Calvados,8,Erwann BINET,http://www.parti-socialiste.fr/personnalite/erwann-binet/
+14010,14,Calvados,10,Joelle HUILLIER,http://www.parti-socialiste.fr/personnalite/joelle-huillier/
+27004,27,Eure,4,Richard JACQUET,http://www.parti-socialiste.fr/personnalite/richard-jacquet/
+27005,27,Eure,5,Martine SEGUELA,http://www.parti-socialiste.fr/personnalite/martine-seguela/
+50004,50,Manche,4,Arnaud CATHERINE,http://www.parti-socialiste.fr/personnalite/arnaud-catherine/
+61002,61,Orne,2,Serge DELAVALLEE,http://www.parti-socialiste.fr/personnalite/serge-delavallee/
+61003,61,Orne,3,Isabelle BOSCHER,http://www.parti-socialiste.fr/personnalite/isabelle-boscher/
+76001,76,Seine-Maritime,1,Valérie FOURNEYRON,http://www.parti-socialiste.fr/personnalite/valerie-fourneyron/
+76002,76,Seine-Maritime,2,Jacques Antoine PHILIPPE,http://www.parti-socialiste.fr/personnalite/jacques-antoine-philippe/
+76003,76,Seine-Maritime,3,Luce PANE,http://www.parti-socialiste.fr/personnalite/luce-pane/
+76004,76,Seine-Maritime,4,Guillaume BACHELAY,http://www.parti-socialiste.fr/personnalite/guillaume-bachelay-2/
+76005,76,Seine-Maritime,5,Christophe BOUILLON,http://www.parti-socialiste.fr/personnalite/christophe-bouillon-2/
+76006,76,Seine-Maritime,6,Marie LE VERN,http://www.parti-socialiste.fr/personnalite/marie-le-vern/
+76007,76,Seine-Maritime,7,Matthieu BRASSE,http://www.parti-socialiste.fr/personnalite/matthieu-brasse/
+76008,76,Seine-Maritime,8,Catherine TROALLIC,http://www.parti-socialiste.fr/personnalite/catherine-troallic/
+76009,76,Seine-Maritime,9,Estelle GRELIER,http://www.parti-socialiste.fr/personnalite/estelle-grelier-2/
+76010,76,Seine-Maritime,10,Jean-Pierre THEVENOT,http://www.parti-socialiste.fr/personnalite/jean-pierre-thevenot/
+16001,16,Charente,1,Martine PINVILLE,http://www.parti-socialiste.fr/personnalite/martine-pinville/
+16002,16,Charente,2,Marianne REYNAUD,http://www.parti-socialiste.fr/personnalite/marianne-reynaud/
+16003,16,Charente,3,Jérôme LAMBERT,http://www.parti-socialiste.fr/personnalite/jerome-lambert/
+17003,17,Charente-Maritime,3,Françoise MESNARD,http://www.parti-socialiste.fr/personnalite/francoise-mesnard/
+17004,17,Charente-Maritime,4,Fabienne DUGAS RAVENEAU,http://www.parti-socialiste.fr/personnalite/fabienne-dugas-raveneau/
+17005,17,Charente-Maritime,5,Mickaël VALLET,http://www.parti-socialiste.fr/personnalite/mickael-vallet/
+19001,19,Corrèze,1,Bernard COMBES,http://www.parti-socialiste.fr/personnalite/bernard-combes/
+19002,19,Corrèze,2,Philippe NAUCHE,http://www.parti-socialiste.fr/personnalite/philippe-nauche/
+23001,23,Creuse,1,Michel VERGNIER,http://www.parti-socialiste.fr/personnalite/michel-vergnier/
+24001,24,Dordogne,1,Michel MOYRAND,http://www.parti-socialiste.fr/personnalite/michel-moyrand/
+24003,24,Dordogne,3,Colette LANGLADE,http://www.parti-socialiste.fr/personnalite/colette-langlade/
+24004,24,Dordogne,4,Benjamin DELRIEUX,http://www.parti-socialiste.fr/personnalite/benjamin-delrieux/
+33001,33,Gironde,1,Sandrine DOUCET,http://www.parti-socialiste.fr/personnalite/sandrine-doucet-2/
+33002,33,Gironde,2,Michèle DELAUNAY,http://www.parti-socialiste.fr/personnalite/michele-delaunay/
+33003,33,Gironde,3,Naima CHARAI,http://www.parti-socialiste.fr/personnalite/naima-charai/
+33004,33,Gironde,4,Alain DAVID,http://www.parti-socialiste.fr/personnalite/alain-david/
+33005,33,Gironde,5,Pascale GOT,http://www.parti-socialiste.fr/personnalite/pascale-got/
+33006,33,Gironde,6,Marie RECALDE,http://www.parti-socialiste.fr/personnalite/marie-recalde-2/
+33007,33,Gironde,7,Bernard GARRIGOU,http://www.parti-socialiste.fr/personnalite/bernard-garrigou/
+33009,33,Gironde,9,Gilles SAVARY,http://www.parti-socialiste.fr/personnalite/gilles-savary/
+33011,33,Gironde,11,Michèle LACOSTE,http://www.parti-socialiste.fr/personnalite/michele-lacoste/
+40001,40,Landes,1,Renaud LAGRAVE,http://www.parti-socialiste.fr/personnalite/renaud-lagrave/
+40002,40,Landes,2,Christine BASLY LAPEGUE,http://www.parti-socialiste.fr/personnalite/christine-basly-lapegue/
+40003,40,Landes,3,Boris VALLAUD,http://www.parti-socialiste.fr/personnalite/boris-vallaud/
+47001,47,Lot-et-Garonne,1,Lucette LOUSTEAU,http://www.parti-socialiste.fr/personnalite/lucette-lousteau/
+47002,47,Lot-et-Garonne,2,Matthias FEKL,http://www.parti-socialiste.fr/personnalite/matthias-fekl/
+47003,47,Lot-et-Garonne,3,Guillaume MOLIERAC,http://www.parti-socialiste.fr/personnalite/guillaume-molierac/
+64001,64,Pyrénées-Atlantiques,1,Jérôme MARBOT,http://www.parti-socialiste.fr/personnalite/jerome-marbot/
+64002,64,Pyrénées-Atlantiques,2,Nathalie CHABANNE,http://www.parti-socialiste.fr/personnalite/nathalie-chabanne/
+64003,64,Pyrénées-Atlantiques,3,David HABIB,http://www.parti-socialiste.fr/personnalite/david-habib/
+64005,64,Pyrénées-Atlantiques,5,Colette CAPDEVIELLE,http://www.parti-socialiste.fr/personnalite/colette-capdevielle/
+64006,64,Pyrénées-Atlantiques,6,Sylviane ALAUX,http://www.parti-socialiste.fr/personnalite/sylviane-alaux/
+79001,79,Deux-Sèvres,1,Elodie TRUONG,http://www.parti-socialiste.fr/personnalite/elodie-truong/
+79002,79,Deux-Sèvres,2,Delphine BATHO,http://www.parti-socialiste.fr/personnalite/delphine-batho/
+79003,79,Deux-Sèvres,3,Marc BONNEAU,http://www.parti-socialiste.fr/personnalite/marc-bonneau/
+86001,86,Vienne,1,Xavier Moinier,http://www.parti-socialiste.fr/personnalite/xavier-moinier/
+86002,86,Vienne,2,Patricia PERSICO,http://www.parti-socialiste.fr/personnalite/patricia-persico/
+86003,86,Vienne,3,Jean-Michel CLEMENT,http://www.parti-socialiste.fr/personnalite/jean-michel-clement/
+87001,87,Haute-Vienne,1,Laurent LAFAYE,http://www.parti-socialiste.fr/personnalite/laurent-lafaye/
+87002,87,Haute-Vienne,2,Annick MORIZIO,http://www.parti-socialiste.fr/personnalite/annick-morizio/
+87003,87,Haute-Vienne,3,Catherine BEAUBATIE,http://www.parti-socialiste.fr/personnalite/catherine-beaubatie/
+09001,09,Ariège,1,Martine ESTEBAN,http://www.parti-socialiste.fr/personnalite/martine-esteban/
+09002,09,Ariège,2,Alain FAURE,http://www.parti-socialiste.fr/personnalite/alain-faure/
+11001,11,Aude,1,Alain GINIES,http://www.parti-socialiste.fr/personnalite/alain-ginies/
+11002,11,Aude,2,Marie-Hélène FABRE,http://www.parti-socialiste.fr/personnalite/marie-helene-fabre/
+11003,11,Aude,3,André VIOLA,http://www.parti-socialiste.fr/personnalite/andre-viola-2/
+12001,12,Aveyron,1,Sarah VIDAL,http://www.parti-socialiste.fr/personnalite/sarah-vidal-2/
+12002,12,Aveyron,2,Bertrand CAVALERIE,http://www.parti-socialiste.fr/personnalite/bertrand-cavalerie/
+30001,30,Gard,1,Françoise DUMAS,http://www.parti-socialiste.fr/personnalite/francoise-dumas/
+30002,30,Gard,2,Katy GUYOT,http://www.parti-socialiste.fr/personnalite/katy-guyot/
+30003,30,Gard,3,Catherine EYSSERIC,http://www.parti-socialiste.fr/personnalite/catherine-eysseric/
+30004,30,Gard,4,Fabrice VERDIER,http://www.parti-socialiste.fr/personnalite/fabrice-verdier/
+30005,30,Gard,5,Nelly FRONTANAU,http://www.parti-socialiste.fr/personnalite/nelly-frontanau/
+31001,31,Haute-Garonne,1,Catherine LEMORTON,http://www.parti-socialiste.fr/personnalite/lemorton-catherine/
+31002,31,Haute-Garonne,2,Gérard BAPT,http://www.parti-socialiste.fr/personnalite/gerard-bapt/
+31003,31,Haute-Garonne,3,Isabelle HARDY,http://www.parti-socialiste.fr/personnalite/isabelle-hardy/
+31004,31,Haute-Garonne,4,Martine MARTINEL,http://www.parti-socialiste.fr/personnalite/martine-martinel/
+31006,31,Haute-Garonne,6,Camille POUPONNEAU,http://www.parti-socialiste.fr/personnalite/camille-pouponneau/
+31007,31,Haute-Garonne,7,Marie-Caroline TEMPESTA,http://www.parti-socialiste.fr/personnalite/marie-caroline-tempesta/
+31008,31,Haute-Garonne,8,Joel AVIRAGNET,http://www.parti-socialiste.fr/personnalite/joel-aviragnet/
+31009,31,Haute-Garonne,9,Christophe BORGEL,http://www.parti-socialiste.fr/personnalite/christophe-borgel-2/
+31010,31,Haute-Garonne,10,Kader ARIF,http://www.parti-socialiste.fr/personnalite/arif-kader/
+32001,32,Gers,1,Francis DUPOUEY,http://www.parti-socialiste.fr/personnalite/francis-dupouey/
+32002,32,Gers,2,Gisèle BIEMOURET,http://www.parti-socialiste.fr/personnalite/gisele-biemouret/
+34002,34,Hérault,2,Anne-Yvonne LE DAIN,http://www.parti-socialiste.fr/personnalite/anne-yvonne-dain/
+34003,34,Hérault,3,Fanny DOMBRE COSTE,http://www.parti-socialiste.fr/personnalite/fanny-dombre-coste/
+34004,34,Hérault,4,Frédéric ROIG,http://www.parti-socialiste.fr/personnalite/frederic-roig/
+34005,34,Hérault,5,Marie PASSIEUX,http://www.parti-socialiste.fr/personnalite/marie-passieux/
+34007,34,Hérault,7,Sébastien DENAJA,http://www.parti-socialiste.fr/personnalite/sebastien-denaja/
+34008,34,Hérault,8,Christian ASSAF,http://www.parti-socialiste.fr/personnalite/christian-assaf-2/
+46002,46,Lot,2,Vincent LABARTHE,http://www.parti-socialiste.fr/personnalite/vincent-labarthe/
+48001,48,Lozère,1,Aurélie MAILLOLS,http://www.parti-socialiste.fr/personnalite/aurelie-maillols/
+65001,65,Hautes-Pyrénées,1,Jean GALVANY,http://www.parti-socialiste.fr/personnalite/jean-glavany/
+66002,66,Pyrénées-Orientales,2,Marie-Pierre SADOURNY,http://www.parti-socialiste.fr/personnalite/marie-pierre-sadourny/
+66003,66,Pyrénées-Orientales,3,Ségolène NEUVILLE,http://www.parti-socialiste.fr/personnalite/segolene-neuville/
+66004,66,Pyrénées-Orientales,4,Alexandre Reynal,http://www.parti-socialiste.fr/personnalite/alexandre-reynal/
+81001,81,Tarn,1,Patrice BEDIER,http://www.parti-socialiste.fr/personnalite/patrice-bedier/
+81002,81,Tarn,2,Claire FITA,http://www.parti-socialiste.fr/personnalite/claire-fita-2/
+81003,81,Tarn,3,Linda GOURJADE,http://www.parti-socialiste.fr/personnalite/linda-gourjade/
+82001,82,Tarn-et-Garonne,1,Valérie RABAULT,http://www.parti-socialiste.fr/personnalite/valerie-rabault/
+44002,44,Loire-Atlantique,2,Alain ROBERT,http://www.parti-socialiste.fr/personnalite/alain-robert/
+44003,44,Loire-Atlantique,3,Karine DANIEL,http://www.parti-socialiste.fr/personnalite/karine-daniel/
+44004,44,Loire-Atlantique,4,Dominique RAIMBOURG,http://www.parti-socialiste.fr/personnalite/dominique-raimbourg/
+44005,44,Loire-Atlantique,5,Michel MENARD,http://www.parti-socialiste.fr/personnalite/michel-menard/
+44007,44,Loire-Atlantique,7,Anne BOYE,http://www.parti-socialiste.fr/personnalite/anne-boye/
+44008,44,Loire-Atlantique,8,Laurianne DENIAUD,http://www.parti-socialiste.fr/personnalite/laurianne-deniaud/
+49001,49,Maine-et-Loire,1,Luc BELOT,http://www.parti-socialiste.fr/personnalite/luc-belot-2/
+49004,49,Maine-et-Loire,4,Meriem BABA,http://www.parti-socialiste.fr/personnalite/meriem-baba/
+49006,49,Maine-et-Loire,6,Serge BARDY,http://www.parti-socialiste.fr/personnalite/serge-bardy/
+49007,49,Maine-et-Loire,7,Sylvie CAMARA TOMBINI,http://www.parti-socialiste.fr/personnalite/sylvie-camara-tombini/
+53001,53,Mayenne,1,Guillaume GAROT,http://www.parti-socialiste.fr/personnalite/guillaume-garot/
+72001,72,Sarthe,1,Françoise DUBOIS,http://www.parti-socialiste.fr/personnalite/francoise-dubois/
+72002,72,Sarthe,2,Marietta KARAMANLI,http://www.parti-socialiste.fr/personnalite/marietta-karamanli/
+72003,72,Sarthe,3,Nicolas CHAUVIN,http://www.parti-socialiste.fr/personnalite/nicolas-chauvin/
+72004,72,Sarthe,4,Stéphane LE FOLL,http://www.parti-socialiste.fr/personnalite/stephane-le-foll/
+72005,72,Sarthe,5,Christophe ROUILLON,http://www.parti-socialiste.fr/personnalite/christophe-rouillon/
+85001,85,Vendée,1,Cécile DREURE,http://www.parti-socialiste.fr/personnalite/cecile-dreure/
+85002,85,Vendée,2,Sylviane BULTEAU,http://www.parti-socialiste.fr/personnalite/sylviane-bulteau-2/
+85003,85,Vendée,3,Anthony PITALIER,http://www.parti-socialiste.fr/personnalite/anthony-pitalier/
+85005,85,Vendée,5,Hugues FOURAGE,http://www.parti-socialiste.fr/personnalite/hugues-fourage/
+04001,04,Alpes-de-Haute-Provence,1,Delphine BAGARRY,http://www.parti-socialiste.fr/personnalite/delphine-bagarry/
+05001,05,Hautes-Alpes,1,Karine BERGER,http://www.parti-socialiste.fr/personnalite/berger-karine/
+06002,06,Alpes-Maritimes,2,Xavier GARCIA,http://www.parti-socialiste.fr/personnalite/xavier-garcia/
+06003,06,Alpes-Maritimes,3,Pierre-Marie CARLIER,http://www.parti-socialiste.fr/personnalite/carlier-pierre-marie/
+06005,06,Alpes-Maritimes,5,Chaama GRAILLAT,http://www.parti-socialiste.fr/personnalite/chaama-graillat/
+13001,13,Bouches-du-Rhône,1,Gérard OREGGIA,http://www.parti-socialiste.fr/personnalite/gerard-oreggia/
+13002,13,Bouches-du-Rhône,2,Annie LEVY-MOZZICONACCI,http://www.parti-socialiste.fr/personnalite/annie-levy-mozziconacci/
+13003,13,Bouches-du-Rhône,3,Anne DI MARINO,http://www.parti-socialiste.fr/personnalite/annedi-marino/
+13004,13,Bouches-du-Rhône,4,Patrick MENNUCCI,http://www.parti-socialiste.fr/personnalite/patrick-mennucci/
+13005,13,Bouches-du-Rhône,5,Marie-Arlette CARLOTTI,http://www.parti-socialiste.fr/personnalite/marie-arlette-carlotti/
+13007,13,Bouches-du-Rhône,7,Henri JIBRAYEL,http://www.parti-socialiste.fr/personnalite/henri-jibrayel/
+13009,13,Bouches-du-Rhône,9,Stéphanie HARKANE,http://www.parti-socialiste.fr/personnalite/stephanie-harkane/
+13012,13,Bouches-du-Rhône,12,Isabelle ROVARINO,http://www.parti-socialiste.fr/personnalite/isabelle-rovarino/
+13014,13,Bouches-du-Rhône,14,Jean-David CIOT,http://www.parti-socialiste.fr/personnalite/jean-david-ciot/
+13016,13,Bouches-du-Rhône,16,Nora MEBAREK,http://www.parti-socialiste.fr/personnalite/nora-mebarek/
+83001,83,Var,1,Valentin GIES,http://www.parti-socialiste.fr/personnalite/valentin-gies/
+83002,83,Var,2,Cécile MUSCHOTTI,http://www.parti-socialiste.fr/personnalite/cecile-muschotti/
+83003,83,Var,3,William SEEMULLER,http://www.parti-socialiste.fr/personnalite/william-seemuller/
+83005,83,Var,5,Insaf REZAGUI,http://www.parti-socialiste.fr/personnalite/insaf-rezagui/
+83007,83,Var,7,Jimmy COSTE,http://www.parti-socialiste.fr/personnalite/jimmy-coste/
+84001,84,Vaucluse,1,Christine LAGRANGE,http://www.parti-socialiste.fr/personnalite/christine-lagrange/
+84003,84,Vaucluse,3,Céline VALADIER,http://www.parti-socialiste.fr/personnalite/celine-valadier/
+84004,84,Vaucluse,4,Marlène THIBAUD,http://www.parti-socialiste.fr/personnalite/marlene-thibaud/
+84005,84,Vaucluse,5,Jean-François LOVISOLO,http://www.parti-socialiste.fr/personnalite/jean-francois-lovisolo/
+ZD001,974,La Réunion,1,Ericka BAREIGTS,http://www.parti-socialiste.fr/personnalite/ericka-bareigts-2/
+ZD002,974,La Réunion,2,Salim NANA IBRAHIM,http://www.parti-socialiste.fr/personnalite/salim-nana-ibrahim/
+ZD003,974,La Réunion,3,Jean-Jacques VLODY,http://www.parti-socialiste.fr/personnalite/jean-jacques-vlody/
+ZD005,974,La Réunion,5,Philippe LECONSTANT,http://www.parti-socialiste.fr/personnalite/philippe-leconstant/
+ZD006,974,La Réunion,6,Monique ORPHE,http://www.parti-socialiste.fr/personnalite/monique-orphe/
+ZD007,974,La Réunion,7,Virginie GOBALOU,http://www.parti-socialiste.fr/personnalite/virginie-gobalou/
+99901,999,Français établis hors de France,1,Yan CHANTREL,http://www.parti-socialiste.fr/personnalite/yan-chantrel/
+99903,999,Français établis hors de France,3,Axelle LEMAIRE,http://www.parti-socialiste.fr/personnalite/axelle-lemaire/
+99904,999,Français établis hors de France,4,Philip CORDERY,http://www.parti-socialiste.fr/personnalite/philip-cordery-2/
+99905,999,Français établis hors de France,5,Gabrielle SIRY,http://www.parti-socialiste.fr/personnalite/gabrielle-siry-2/
+99906,999,Français établis hors de France,6,Guillaume MATHELIER,http://www.parti-socialiste.fr/personnalite/guillaume-mathelier/
+99907,999,Français établis hors de France,7,Pierre-Yves LE BORGN’,http://www.parti-socialiste.fr/personnalite/pierre-yves-borgn/
+99908,999,Français établis hors de France,8,Benjamin DJIANE’,http://www.parti-socialiste.fr/personnalite/benjamin-djiane/
+99909,999,Français établis hors de France,9,Didier LE BRET,http://www.parti-socialiste.fr/personnalite/didier-le-bret/
+99910,999,Français établis hors de France,10,Daad NAFFI,http://www.parti-socialiste.fr/personnalite/naffi-daad/
+99911,999,Français établis hors de France,11,Florian BOHEME,http://www.parti-socialiste.fr/personnalite/florian-boheme/

@@ -1,0 +1,578 @@
+id,code_dept,nom_dept,num_circ,nom
+01001,01,Ain,1,Xavier Breton
+01002,01,Ain,2,Charles de la Verpillière
+01003,01,Ain,3,Stéphanie Pernod-Beaudon
+01004,01,Ain,4,Michel Voisin
+01005,01,Ain,5,Damien Abad
+02001,02,Aisne,1,Christophe Coulon
+02002,02,Aisne,2,Julien Dive
+02003,02,Aisne,3,Frédéric Meura
+02004,02,Aisne,4,Isabelle Létrillart
+02005,02,Aisne,5,Réservée
+03001,03,Allier,1,Pierre-André Perissol
+03002,03,Allier,2,Daniel Duglery
+03003,03,Allier,3,Gabriel Maquin
+04001,04,Alpes-de-Haute-Provence,1,Réservée
+04002,04,Alpes-de-Haute-Provence,2,Sébastien Ginet
+05001,05,Hautes-Alpes,1,Catherine Asso
+05002,05,Hautes-Alpes,2,Réservée
+06001,06,Alpes-Maritimes,1,Éric Ciotti
+06002,06,Alpes-Maritimes,2,Anne Sattonnet
+06003,06,Alpes-Maritimes,3,Réservée
+06004,06,Alpes-Maritimes,4,Xavier Beck
+06005,06,Alpes-Maritimes,5,Marine Brenier
+06006,06,Alpes-Maritimes,6,Laurence Trastour
+06007,06,Alpes-Maritimes,7,Eric Pauget
+06008,06,Alpes-Maritimes,8,Bernard Brochand
+06009,06,Alpes-Maritimes,9,Michèle Tabarot
+07001,07,Ardèche,1,Réservée
+07002,07,Ardèche,2,Marc-Antoine Quenette
+07003,07,Ardèche,3,Fabrice Brun
+08001,08,Ardennes,1,Bérengère Poletti
+08002,08,Ardennes,2,Pierre Cordier
+08003,08,Ardennes,3,Jean-Luc Warsmann
+09001,09,Ariège,1,Marie-Noëlle Samarq
+09002,09,Ariège,2,Philippe Calleja
+10001,10,Aube,1,Nicolas Dhuicq
+10002,10,Aube,2,Jean-Claude Mathis
+10003,10,Aube,3,Gérard Menuel
+11001,11,Aude,1,Miren de Lorgeril
+11002,11,Aude,2,Michel Py
+11003,11,Aude,3,Catherine Vergé
+12001,12,Aveyron,1,Yves Censi
+12002,12,Aveyron,2,André At
+12003,12,Aveyron,3,Arnaud Viala
+13001,13,Bouches-du-Rhône,1,Valérie Boyer
+13002,13,Bouches-du-Rhône,2,Dominique Tian
+13003,13,Bouches-du-Rhône,3,Richard Miron
+13004,13,Bouches-du-Rhône,4,Solange Biaggi
+13005,13,Bouches-du-Rhône,5,Yves Moraine
+13006,13,Bouches-du-Rhône,6,Guy Teissier
+13007,13,Bouches-du-Rhône,7,Réservée
+13008,13,Bouches-du-Rhône,8,Sandra Dalbin
+13009,13,Bouches-du-Rhône,9,Bernard Deflesselles
+13010,13,Bouches-du-Rhône,10,Richard Mallié
+13011,13,Bouches-du-Rhône,11,Christian Kert
+13012,13,Bouches-du-Rhône,12,Eric Diard
+13013,13,Bouches-du-Rhône,13,Réservée
+13014,13,Bouches-du-Rhône,14,Stéphane Paoli
+13015,13,Bouches-du-Rhône,15,Bernard Reynès
+13016,13,Bouches-du-Rhône,16,Marie-Pierre Callet
+14001,14,Calvados,1,Réservée
+14002,14,Calvados,2,Aminthe Renouf
+14003,14,Calvados,3,Sébastien Leclerc
+14004,14,Calvados,4,Nicole Ameline
+14005,14,Calvados,5,Cédric Nouvelot
+14006,14,Calvados,6,Réservée
+15001,15,Cantal,1,Vincent Descoeur
+15002,15,Cantal,2,Jean-Yves Bony
+16001,16,Charente,1,Elise Vouvet-Laguionnie
+16002,16,Charente,2,Daniel Sauvaitre
+16003,16,Charente,3,Réservée
+17001,17,Charente-Maritime,1,Bruno Leal
+17002,17,Charente-Maritime,2,Sylvie Marcilly
+17003,17,Charente-Maritime,3,Frédéric Neveu
+17004,17,Charente-Maritime,4,Loïc Girard
+17005,17,Charente-Maritime,5,Didier Quentin
+18001,18,Cher,1,Wladimir d'Ormesson
+18002,18,Cher,2,Sophie Bertrand
+18003,18,Cher,3,Louis Cosyns
+19001,19,Corrèze,1,Françoise Beziat
+19002,19,Corrèze,2,Réservée
+2A001,2A,Corse-du-Sud,1,Jean-Jacques Ferrara
+2A002,2A,Corse-du-Sud,2,Camille de Rocca-Serra
+2B001,2B,Haute-Corse,1,Sauveur Gandolfi-Scheit
+2B002,2B,Haute-Corse,2,Stéphanie Grimaldi
+21001,21,Côte-d'Or,1,Anne Erschens
+21002,21,Côte-d'Or,2,Rémi Delatte
+21003,21,Côte-d'Or,3,Pascale Caravel-Fauguet
+21004,21,Côte-d'Or,4,Réservée
+21005,21,Côte-d'Or,5,Hubert Poullot
+22001,22,Côtes-d'Armor,1,Sylvie Grondin
+22002,22,Côtes-d'Armor,2,Didier Deru
+22003,22,Côtes-d'Armor,3,Marc Le Fur
+22004,22,Côtes-d'Armor,4,Martine Tison
+22005,22,Côtes-d'Armor,5,Réservée
+23001,23,Creuse,1,Jérémie Sauty
+24001,24,Dordogne,1,Laurent Mossion
+24002,24,Dordogne,2,Gaëlle Blanc-Lajoinie
+24003,24,Dordogne,3,Isabelle Hyvoz
+24004,24,Dordogne,4,Jérôme Peyrat
+25001,25,Doubs,1,Françoise Branget
+25002,25,Doubs,2,Ludovic Fagaut
+25003,25,Doubs,3,Frédéric Cartier
+25004,25,Doubs,4,Valère Nedey
+25005,25,Doubs,5,Annie Genevard
+26001,26,Drôme,1,Marlène Mourier
+26002,26,Drôme,2,Réservée
+26003,26,Drôme,3,Réservée
+26004,26,Drôme,4,Emmanuelle Anthoine
+27001,27,Eure,1,Bruno Le Maire
+27002,27,Eure,2,Jean-Paul Legendre
+27003,27,Eure,3,Réservée
+27004,27,Eure,4,Réservée
+27005,27,Eure,5,Alexandre Rassaërt
+28001,28,Eure-et-Loir,1,Franck Masselus
+28002,28,Eure-et-Loir,2,Olivier Marleix
+28003,28,Eure-et-Loir,3,Laure de la Raudière
+28004,28,Eure-et-Loir,4,Réservée
+29001,29,Finistère,1,Réservée
+29002,29,Finistère,2,Véronique Bourbigot
+29003,29,Finistère,3,Réservée
+29004,29,Finistère,4,Maël de Calan
+29005,29,Finistère,5,Patrick Leclerc
+29006,29,Finistère,6,Gaëlle Nicolas
+29007,29,Finistère,7,Didier Guillon
+29008,29,Finistère,8,Laetitia Boidin
+30001,30,Gard,1,Réservée
+30002,30,Gard,2,Pascale Mourrut
+30003,30,Gard,3,Muriel Dherbecourt
+30004,30,Gard,4,Valérie Meunier
+30005,30,Gard,5,Léa Boyer
+30006,30,Gard,6,Richard Flandin
+31001,31,Haute-Garonne,1,Francois Chollet
+31002,31,Haute-Garonne,2,Christine Gennaro-Saint
+31003,31,Haute-Garonne,3,Laurence Arribagé
+31004,31,Haute-Garonne,4,Bertrand Serp
+31005,31,Haute-Garonne,5,Réservée
+31006,31,Haute-Garonne,6,Damien Laborde
+31007,31,Haute-Garonne,7,Françoise Borret
+31008,31,Haute-Garonne,8,Réservée
+31009,31,Haute-Garonne,9,Simone Pauzin-Fournié
+31010,31,Haute-Garonne,10,Arnaud Lafon
+32001,32,Gers,1,Réservée
+32002,32,Gers,2,Barbara Neto
+33001,33,Gironde,1,Nicolas Florian
+33002,33,Gironde,2,Anne Valryck
+33003,33,Gironde,3,Alexandre Gourd
+33004,33,Gironde,4,Réservée
+33005,33,Gironde,5,Florence Legrand
+33006,33,Gironde,6,Réservée
+33007,33,Gironde,7,Karine Roux-Labat
+33008,33,Gironde,8,Yves Foulon
+33009,33,Gironde,9,Michel Dufranc
+33010,33,Gironde,10,Jean-Paul Garraud
+33011,33,Gironde,11,Mireille Conte-Jaubert
+33012,33,Gironde,12,Yves d’Amecourt
+34001,34,Hérault,1,Réservée
+34002,34,Hérault,2,Nancy Canaud
+34003,34,Hérault,3,Catherine Dardé
+34004,34,Hérault,4,Laurence Cristol
+34005,34,Hérault,5,Catherine Rouillé-Pasquali
+34006,34,Hérault,6,Elie Aboud
+34007,34,Hérault,7,Laurence Magne
+34008,34,Hérault,8,Arnaud Julien
+34009,34,Hérault,9,Joëlle Jenin-Vignaud
+35001,35,Ille-et-Vilaine,1,Réservée
+35002,35,Ille-et-Vilaine,2,Bertrand Plouvier
+35003,35,Ille-et-Vilaine,3,Melina Parmentier
+35004,35,Ille-et-Vilaine,4,Jean-Marc Carreau
+35005,35,Ille-et-Vilaine,5,Isabelle Le Callennec
+35006,35,Ille-et-Vilaine,6,Réservée
+35007,35,Ille-et-Vilaine,7,Gilles Lurton
+35008,35,Ille-et-Vilaine,8,Amélie Dhalluin
+36001,36,Indre,1,Paulette Picard
+36002,36,Indre,2,Nicolas Forissier
+37001,37,Indre-et-Loire,1,Céline Ballesteros
+37002,37,Indre-et-Loire,2,Claude Greff
+37003,37,Indre-et-Loire,3,Réservée
+37004,37,Indre-et-Loire,4,Hervé Novelli
+37005,37,Indre-et-Loire,5,Philippe Briand
+38001,38,Isère,1,Réservée
+38002,38,Isère,2,Magalie Vicente
+38003,38,Isère,3,Elodie Léger
+38004,38,Isère,4,Sandrine Martin-Grand
+38005,38,Isère,5,Philippe Langenieux-Villard
+38006,38,Isère,6,Alain Moyne-Bressand
+38007,38,Isère,7,Yannick Neuder
+38008,38,Isère,8,Maryline Silvestre
+38009,38,Isère,9,Bruno Gattaz
+38010,38,Isère,10,Vincent Chriqui
+39001,39,Jura,1,Cyrille Brero
+39002,39,Jura,2,Marie-Christine Dalloz
+39003,39,Jura,3,Jean-Marie Sermier
+40001,40,Landes,1,Marie-Françoise Nadau
+40002,40,Landes,2,Sylviane Pacot
+40003,40,Landes,3,Réservée
+41001,41,Loir-et-Cher,1,Damien Hénault
+41002,41,Loir-et-Cher,2,Guillaume Peltier
+41003,41,Loir-et-Cher,3,Réservée
+42001,42,Loire,1,Réservée
+42002,42,Loire,2,Alexandra Custodio
+42003,42,Loire,3,Réservée
+42004,42,Loire,4,Dino Cinieri
+42005,42,Loire,5,Clothilde Robin
+42006,42,Loire,6,Paul Salen
+43001,43,Haute-Loire,1,Laurent Wauquiez
+43002,43,Haute-Loire,2,Jean-Pierre Vigier
+44001,44,Loire-Atlantique,1,Julien Bainvel
+44002,44,Loire-Atlantique,2,Sébastien Pilard
+44003,44,Loire-Atlantique,3,Rozenn Hamel
+44004,44,Loire-Atlantique,4,Réservée
+44005,44,Loire-Atlantique,5,Réservée
+44006,44,Loire-Atlantique,6,Alain Hunault
+44007,44,Loire-Atlantique,7,Franck Louvrier
+44008,44,Loire-Atlantique,8,Florence Beuvelet
+44009,44,Loire-Atlantique,9,Claire Hugues
+44010,44,Loire-Atlantique,10,Jérôme Guiho
+45001,45,Loiret,1,Charles-Eric Lemaignen
+45002,45,Loiret,2,Serge Grouard
+45003,45,Loiret,3,Claude de Ganay
+45004,45,Loiret,4,Jean-Pierre Door
+45005,45,Loiret,5,Marianne Dubois
+45006,45,Loiret,6,Réservée
+46001,46,Lot,1,Aurélien Pradié
+46002,46,Lot,2,Réservée
+47001,47,Lot-et-Garonne,1,Réservée
+47002,47,Lot-et-Garonne,2,Émilien Roso
+47003,47,Lot-et-Garonne,3,Jean-Louis Costes
+48001,48,Lozère,1,Pierre Morel-à-l’Huissier
+49001,49,Maine-et-Loire,1,Caroline Fel
+49002,49,Maine-et-Loire,2,Maxence Henry
+49003,49,Maine-et-Loire,3,Jean-Charles Taugourdeau
+49004,49,Maine-et-Loire,4,Réservée
+49005,49,Maine-et-Loire,5,Réservée
+49006,49,Maine-et-Loire,6,André Martin
+49007,49,Maine-et-Loire,7,Étienne Glémot
+50001,50,Manche,1,Philippe Gosselin
+50002,50,Manche,2,Guénhaël Huet
+50003,50,Manche,3,Jean-Manuel Cousin
+50004,50,Manche,4,Sophie Guyon
+51001,51,Marne,1,Valérie Beauvais
+51002,51,Marne,2,Catherine Vautrin
+51003,51,Marne,3,Rachel Paillard
+51004,51,Marne,4,Lise Magnier
+51005,51,Marne,5,Réservée
+52001,52,Haute-Marne,1,Adrien Guéné
+52002,52,Haute-Marne,2,François Cornut-Gentille
+53001,53,Mayenne,1,Samia Soultani-Vigneron
+53002,53,Mayenne,2,Guillaume Chevrollier
+53003,53,Mayenne,3,Réservée
+54001,54,Meurthe-et-Moselle,1,Réservée
+54002,54,Meurthe-et-Moselle,2,Valérie Debord
+54003,54,Meurthe-et-Moselle,3,Réservée
+54004,54,Meurthe-et-Moselle,4,Thibault Bazin
+54005,54,Meurthe-et-Moselle,5,Philippe Morenvillier
+54006,54,Meurthe-et-Moselle,6,Lise Roseleur
+55001,55,Meuse,1,Réservée
+55002,55,Meuse,2,Pierre Regent
+56001,56,Morbihan,1,Christine Penhouêt
+56002,56,Morbihan,2,Philippe Le Ray
+56003,56,Morbihan,3,Soizic Perrault
+56004,56,Morbihan,4,Marie-Hélène Herry
+56005,56,Morbihan,5,Marie-Claude Gaudin
+56006,56,Morbihan,6,Anne-Maud Goujon
+57001,57,Moselle,1,Réservée
+57002,57,Moselle,2,Jean François
+57003,57,Moselle,3,Marie-Jo Zimmermann
+57004,57,Moselle,4,Fabien di Filippo
+57005,57,Moselle,5,Céleste Lett
+57006,57,Moselle,6,Pierre Lang
+57007,57,Moselle,7, Réservée
+57008,57,Moselle,8,Eliane Assioma
+57009,57,Moselle,9,Pauline Lapointe-Zordan
+58001,58,Nièvre,1,Réservée
+58002,58,Nièvre,2,Annie Legrain
+59001,59,Nord,1,Réservée
+59002,59,Nord,2,Florence Bariseau
+59003,59,Nord,3,Réservée
+59004,59,Nord,4,Jacques Houssin
+59005,59,Nord,5,Sébastien Huyghe
+59006,59,Nord,6,Thierry Lazaro
+59007,59,Nord,7,Réservée
+59008,59,Nord,8,Léonard Delcourt
+59009,59,Nord,9,Bernard Gérard
+59010,59,Nord,10,Vincent Ledoux
+59011,59,Nord,11,Karine Charbonnier-Beck
+59012,59,Nord,12,Marjorie Gosselet-Cambrai
+59013,59,Nord,13,Réservée
+59014,59,Nord,14,Paul Christophe
+59015,59,Nord,15,Jean-Pierre Bataille
+59016,59,Nord,16,Nacéra Soltani
+59017,59,Nord,17,Frederic Nihous
+59018,59,Nord,18,Réservée
+59019,59,Nord,19,Olivier Capron
+59020,59,Nord,20,Réservée
+59021,59,Nord,21,Réservée
+60001,60,Oise,1,Olivier Dassault
+60002,60,Oise,2,Alexiss Mancel
+60003,60,Oise,3,Frederique Leblanc
+60004,60,Oise,4,Eric Woerth
+60005,60,Oise,5,Pierre Vatin
+60006,60,Oise,6,Éric de Valroger
+60007,60,Oise,7,Maxime Minot
+61001,61,Orne,1,Bertrand Deniaud
+61002,61,Orne,2,Véronique Louwagie
+61003,61,Orne,3,Jérôme Nury
+62001,62,Pas-de-Calais,1,Michel Petit
+62002,62,Pas-de-Calais,2,Réservée
+62003,62,Pas-de-Calais,3,Sabine Banach
+62004,62,Pas-de-Calais,4,Daniel Fasquelle
+62005,62,Pas-de-Calais,5,Fabienne Chochois
+62006,62,Pas-de-Calais,6,Jean-Michel Taccoen
+62007,62,Pas-de-Calais,7,Pierre-Henri Dumont
+62008,62,Pas-de-Calais,8,Réservée
+62009,62,Pas-de-Calais,9,Pierre-Emmanuel Gibson
+62010,62,Pas-de-Calais,10,Nesredine Ramdani
+62011,62,Pas-de-Calais,11,Alexandrine Pintus
+62012,62,Pas-de-Calais,12,Caroline Meloni
+63001,63,Puy-de-Dôme,1,Réservée
+63002,63,Puy-de-Dôme,2,Stéphanie Flori-Dutour
+63003,63,Puy-de-Dôme,3,Réservée
+63004,63,Puy-de-Dôme,4,Bertrand Barraud
+63005,63,Puy-de-Dôme,5,Myriam Fougere
+64001,64,Pyrénées-Atlantiques,1,Pauline Roy
+64002,64,Pyrénées-Atlantiques,2,Eric Saubatte
+64003,64,Pyrénées-Atlantiques,3,Pierre Saulnier
+64004,64,Pyrénées-Atlantiques,4,Marc Oxibar
+64005,64,Pyrénées-Atlantiques,5,Caroline Oustalet
+64006,64,Pyrénées-Atlantiques,6,Maïder Arosteguy
+65001,65,– Hautes-Pyrénées,1,Réservée
+65002,65,– Hautes-Pyrénées,2,Clément Menet
+66001,66,Pyrénées-Orientales,1,Daniel Mach
+66002,66,Pyrénées-Orientales,2,Fernand Siré
+66003,66,Pyrénées-Orientales,3,Danièle Pages
+66004,66,Pyrénées-Orientales,4,Jacqueline Irles
+67001,67,Bas-Rhin,1,Elsa Schalck
+67002,67,Bas-Rhin,2,Réservée
+67003,67,Bas-Rhin,3,Georges Schuler
+67004,67,Bas-Rhin,4,Sophie Rohfritsch
+67005,67,Bas-Rhin,5,Antoine Herth
+67006,67,Bas-Rhin,6,Laurent Furst
+67007,67,Bas-Rhin,7,Patrick Hetzel
+67008,67,Bas-Rhin,8,Frédéric Reiss
+67009,67,Bas-Rhin,9,Etienne Wolf
+68001,68,Haut-Rhin,1,Éric Straumann
+68002,68,Haut-Rhin,2,Jacques Cattin
+68003,68,Haut-Rhin,3,Jean-Luc Reitzer
+68004,68,Haut-Rhin,4,Raphael Schellenberger
+68005,68,Haut-Rhin,5,Olivier Becht
+68006,68,Haut-Rhin,6,Réservée
+69001,69,Rhône,1,Anne Lorne
+69002,69,Rhône,2,Laurence Balas
+69003,69,Rhône,3,Nora Berra
+69004,69,Rhône,4,Dominique Nachury
+69005,69,Rhône,5,Philippe Cochet
+69006,69,Rhône,6,Emmanuelle Haziza
+69007,69,Rhône,7,Alexandre Vincendet
+69008,69,Rhône,8,Patrice Verchère
+69009,69,Rhône,9,Bernard Perrut
+69010,69,Rhône,10,Christophe Guilloteau
+69011,69,Rhône,11,Georges Fenech
+69012,69,Rhône,12,Jérôme Moroge
+69013,69,Rhône,13,Philippe Meunier
+69014,69,Rhône,14,Réservée
+70001,70,Haute-Saône,1,Dimitri Doussot
+70002,70,Haute-Saône,2,Isabelle Géhin
+71001,71,Saône-et-Loire,1,Jean-Patrick Courtois
+71002,71,Saône-et-Loire,2,Josiane Corneloup
+71003,71,Saône-et-Loire,3,Charles Landre
+71004,71,Saône-et-Loire,4,Stéphane Gros
+71005,71,Saône-et-Loire,5,Gilles Platret
+72001,72,Sarthe,1,Christelle Morançais
+72002,72,Sarthe,2,Réservée
+72003,72,Sarthe,3,Béatrice Pavy
+72004,72,Sarthe,4,Emmanuel Franco
+72005,72,Sarthe,5,Jean-Carles Grelier
+73001,73,Savoie,1,Dominique Dord
+73002,73,Savoie,2,Vincent Rolland
+73003,73,Savoie,3,Emilie Bonnivard
+73004,73,Savoie,4,Réservée
+74001,74,Haute-Savoie,1,Annabel André-Laurent
+74002,74,Haute-Savoie,2,Lionel Tardy
+74003,74,Haute-Savoie,3,Martial Saddier
+74004,74,Haute-Savoie,4,Virginie Duby-Muller
+74005,74,Haute-Savoie,5,Patricia Mahut
+74006,74,Haute-Savoie,6,Sophie Dion
+75001,75,Paris,1,Jean-François Legaret
+75002,75,Paris,2,Nathalie Kosciusco-Morizet
+75003,75,Paris,3,Réservée
+75004,75,Paris,4,Brigitte Kuster
+75005,75,Paris,5,Déborah Pawlik
+75006,75,Paris,6,Réservée
+75007,75,Paris,7,Vincent Roger
+75008,75,Paris,8,Valérie Montandon
+75009,75,Paris,9,Laure Esquieu
+75010,75,Paris,10,Sandrine Richard
+75011,75,Paris,11,Jean-Pierre Lecoq
+75012,75,Paris,12,Philippe Goujon
+75013,75,Paris,13,Jean-François Lamour
+75014,75,Paris,14,Claude Goasguen
+75015,75,Paris,15,Atanase Périfan
+75016,75,Paris,16,Anne-Constance Onghena
+75017,75,Paris,17,Babette de Rozières
+75018,75,Paris,18,Pierre-Yves Bournazel
+76001,76,Seine-Maritime,1,Jean-François Bures
+76002,76,Seine-Maritime,2,Françoise Guégot
+76003,76,Seine-Maritime,3,Jonas Haddad
+76004,76,Seine-Maritime,4,Marie-Hélène Roux
+76005,76,Seine-Maritime,5,Jean Delalandre
+76006,76,Seine-Maritime,6,Réservée
+76007,76,Seine-Maritime,7,Agnès Firmin Le Bodo
+76008,76,Seine-Maritime,8,Sébastien Tasserie
+76009,76,Seine-Maritime,9,Réservée
+76010,76,Seine-Maritime,10,Charles d’Anjou
+77001,77,Seine-et-Marne,1,Denis Jullemier
+77002,77,Seine-et-Marne,2,Valérie Lacroute
+77003,77,Seine-et-Marne,3,Réservée
+77004,77,Seine-et-Marne,4,Christian Jacob
+77005,77,Seine-et-Marne,5,Franck Riester
+77006,77,Seine-et-Marne,6,Jean-François Parigi
+77007,77,Seine-et-Marne,7,Yves Albarello
+77008,77,Seine-et-Marne,8,Chantal Brunel
+77009,77,Seine-et-Marne,9,Guy Geoffroy
+77010,77,Seine-et-Marne,10,Réservée
+77011,77,Seine-et-Marne,11,Natacha Bedhiaf
+78001,78,Yvelines,1,François-Xavier Bellamy
+78002,78,Yvelines,2,Pascal Thevenot
+78003,78,Yvelines,3,Philippe Brillault
+78004,78,Yvelines,4,Ghislain Fournier
+78005,78,Yvelines,5,Jacques Myard
+78006,78,Yvelines,6,Pierre Morange
+78007,78,Yvelines,7,Réservée
+78008,78,Yvelines,8,Michel Vialay
+78009,78,Yvelines,9,Jean-Marie Tétart
+78010,78,Yvelines,10,Jean-Frédéric Poisson
+78011,78,Yvelines,11,Jean-Michel Fourgous
+78012,78,Yvelines,12,David Douillet
+79001,79,Deux-Sèvres,1,Réservée
+79002,79,Deux-Sèvres,2,Severine Vachon
+79003,79,Deux-Sèvres,3,Véronique Schaaf-Gauthier
+80001,80,Somme,1,Stéphane Decayeux
+80002,80,Somme,2,Réservée
+80003,80,Somme,3,Emmanuel Maquet
+80004,80,Somme,4,Martin Domise
+80005,80,Somme,5,Réservée
+81001,81,Tarn,1,Anne-Michèle Bianchi
+81002,81,Tarn,2,Pascal Grandin
+81003,81,Tarn,3,Bernard Carayon
+82001,82,Tarn-et-Garonne,1,Thierry Deville
+82002,82,Tarn-et-Garonne,2,Mathieu Albugues
+83001,83,Var,1,Geneviève Levy
+83002,83,Var,2,Philippe Vitel
+83003,83,Var,3,Jean-Louis Masson
+83004,83,Var,4,Françoise Dumont
+83005,83,Var,5,Guillaume Decard
+83006,83,Var,6,Marc Lauriol
+83007,83,Var,7,Jean-Sébastien Vialatte
+83008,83,Var,8,Olivier Audibert-Troin
+84001,84,Vaucluse,1,Stéphanie Parry
+84002,84,Vaucluse,2,Jean-Claude Bouchet
+84003,84,Vaucluse,3,Réservée
+84004,84,Vaucluse,4,Jean-François Perilhou
+84005,84,Vaucluse,5,Julien Aubert
+85001,85,Vendée,1,Alain Leboeuf
+85002,85,Vendée,2,Béatrice Bellamy
+85003,85,Vendée,3,Réservée
+85004,85,Vendée,4,Réservée
+85005,85,Vendée,5,Jean-Michel Lalère
+86001,86,Vienne,1,Jacqueline Daigre
+86002,86,Vienne,2,Olivier Chartier
+86003,86,Vienne,3,Enguerrand Delannoy
+86004,86,Vienne,4,Réservée
+87001,87,Haute-Vienne,1,Sarah Gentil
+87002,87,Haute-Vienne,2,Réservée
+87003,87,Haute-Vienne,3,Guillaume Guerin
+88001,88,Vosges,1,Stéphane Viry
+88002,88,Vosges,2,Gérard Cherpion
+88003,88,Vosges,3,Patrick Lagarde
+88004,88,Vosges,4,Jean-Jacques Gaultier
+89001,89,Yonne,1,Guillaume Larrivé
+89002,89,Yonne,2,Réservée
+89003,89,Yonne,3,Clarisse Quentin
+90001,90,Territoire-de-Belfort,1,Ian Boucard
+90002,90,Territoire-de-Belfort,2,Réservée
+91001,91,Essonne,1,Caroline Varin
+91002,91,Essonne,2,Franck Marlin
+91003,91,Essonne,3,Réservée
+91004,91,Essonne,4,Agnès Evren
+91005,91,Essonne,5,Laure Darcos
+91006,91,Essonne,6,Réservée
+91007,91,Essonne,7,Robin Reda
+91008,91,Essonne,8,Réservée
+91009,91,Essonne,9,Véronique Carantois
+91010,91,Essonne,10,Réservée
+92001,92,Hauts-de-Seine,1,Nadia Frontigny
+92002,92,Hauts-de-Seine,2,Marie-Do Aeschlimann
+92003,92,Hauts-de-Seine,3,Jean Spiri
+92004,92,Hauts-de-Seine,4,Camille Bedin
+92005,92,Hauts-de-Seine,5,Arnaud de Courson
+92006,92,Hauts-de-Seine,6,Constance Le Grip
+92007,92,Hauts-de-Seine,7,Eric Berdoati
+92008,92,Hauts-de-Seine,8,Gilles Boyer
+92009,92,Hauts-de-Seine,9,Thierry Solere
+92010,92,Hauts-de-Seine,10,Réservée
+92011,92,Hauts-de-Seine,11,Réservée
+92012,92,Hauts-de-Seine,12,Philippe Pemezec
+92013,92,Hauts-de-Seine,13,Georges Siffredi
+93001,93,Seine-Saint-Denis,1,Marina Venturini
+93002,93,Seine-Saint-Denis,2,Hayette Hamidi
+93003,93,Seine-Saint-Denis,3,Réservée
+93004,93,Seine-Saint-Denis,4,Christine Cerrigone
+93005,93,Seine-Saint-Denis,5,Réservée
+93006,93,Seine-Saint-Denis,6,Réservée
+93007,93,Seine-Saint-Denis,7,Manon Laporte-Sieraczek
+93008,93,Seine-Saint-Denis,8,Patrice Calmejane
+93009,93,Seine-Saint-Denis,9,Réservée
+93010,93,Seine-Saint-Denis,10,Alain Ramadier
+93011,93,Seine-Saint-Denis,11,Christine Perron
+93012,93,Seine-Saint-Denis,12,Réservée
+94001,94,Val-de-Marne,1,Sylvain Berrios
+94002,94,Val-de-Marne,2,Thierry Hebbrecht
+94003,94,Val-de-Marne,3,Didier Gonzales
+94004,94,Val-de-Marne,4,Marie-Carole Ciuntu
+94005,94,Val-de-Marne,5,Gilles Carrez
+94006,94,Val-de-Marne,6,Patrick Beaudouin
+94007,94,Val-de-Marne,7,Vincent Jeanbrun
+94008,94,Val-de-Marne,8,Michel Herbillon
+94009,94,Val-de-Marne,9,Bernadette Herault
+94010,94,Val-de-Marne,10,Marie Andria
+94011,94,Val-de-Marne,11,Audrey Gaudron
+95001,95,Val-d'Oise,1,Antoine Savignat
+95002,95,Val-d'Oise,2,Axel Poniatowski
+95003,95,Val-d'Oise,3,Nicole Lanaspre
+95004,95,Val-d'Oise,4,Claude Bodin
+95005,95,Val-d'Oise,5,Gilles Savry
+95006,95,Val-d'Oise,6,Luc Strehaiano
+95007,95,Val-d'Oise,7,Jérôme Chartier
+95008,95,Val-d'Oise,8,Réservée
+95009,95,Val-d'Oise,9,Anthony Arciero
+95010,95,Val-d'Oise,10,Virginie Tinland
+ZA001,971,Guadeloupe,1,Alix Huygues-Beaufond
+ZA002,971,Guadeloupe,2,Laurent Bernier
+ZA003,971,Guadeloupe,3,Sylvie Chammougom-Anno
+ZA004,971,Guadeloupe,4,Sonia Petro
+ZB001,972,Martinique,1,Karine Mousseau
+ZB002,972,Martinique,2,Réservée
+ZB003,972,Martinique,3,Miguel Laventure
+ZB004,972,Martinique,4,Sylvia Saïthsoothane
+ZC001,973,Guyane,1,Réservée
+ZC002,973,Guyane,2,Réservée
+ZD001,974,La Réunion,1,Jean-Jacques Morel
+ZD002,974,La Réunion,2,Cyril Melchior
+ZD003,974,La Réunion,3,Nathalie Bassire
+ZD004,974,La Réunion,4,David Lorion
+ZD005,974,La Réunion,5,Daniel Gonthier
+ZD006,974,La Réunion,6,Réservée
+ZD007,974,La Réunion,7,Sandra Sinimalé
+ZS001,975,Saint-Pierre-et-Miquelon,1,Réservée
+ZM001,976,Mayotte,1,Elad Chakrina
+ZM002,976,Mayotte,2,Mansour Kamardine
+ZX001,977,Saint-Barthélemy et Saint-Martin,1,Claire Javois
+ZW001,986,Wallis-et-Futuna,1,Hervé Delord
+ZP001,987,Polynésie française,1,Réservée
+ZP002,987,Polynésie française,2,Réservée
+ZP003,987,Polynésie française,3,Réservée
+ZN001,988,Nouvelle-Calédonie,1,Bernard Deladrière
+ZN002,988,Nouvelle-Calédonie,2,Réservée
+99901,999,Français établis hors de France,1,Frédéric Lefebvre
+99902,999,Français établis hors de France,2,Pascal Drouhaud
+99903,999,Français établis hors de France,3,Laurence Azzena-Gougeon
+99904,999,Français établis hors de France,4,Valérie Bros-Khoury
+99905,999,Français établis hors de France,5,Laurence Sailliet
+99906,999,Français établis hors de France,6,Claudine Schmid
+99907,999,Français établis hors de France,7,Philippe Gustin
+99908,999,Français établis hors de France,8,Réservée
+99909,999,Français établis hors de France,9,Erwan Davoux
+99910,999,Français établis hors de France,10,Alain Marsaud
+99911,999,Français établis hors de France,11,Thierry Mariani
