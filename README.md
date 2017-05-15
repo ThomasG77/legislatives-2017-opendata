@@ -12,6 +12,8 @@ Installez [QGIS](http://qgis.org/fr/site/) (nous avons travaillé avec la versio
 
 Il vous suffit de récupérer le code de ce dépôt (par exemple en téléchargeant le ZIP) puis d'ouvrir le projet QGIS `investitures-legislatives-2017.qgs`
 
+Le code EPSG utilisé est 4326 qui correspond au WGS 84 (coordonnées du GPS) car la carte inclut les DOM et les COM.
+
 Nous avons fonctionné avec des jointures avec les fichiers CSV pour chacune des formation politique (La République En Marche, Le Parti Socialiste, Les Républicains)
 
 ![](images/jointures-qgis.png)
